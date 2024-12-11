@@ -1,0 +1,15 @@
+[package]
+name = "temperature_converter"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "temperature_converter"
+path = "src/lib.rs"
+
+[[bin]]
+name = "temperature_converter"
+path = "src/main.rs"
+
+[dependencies]
+
