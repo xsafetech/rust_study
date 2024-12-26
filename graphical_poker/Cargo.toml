@@ -1,0 +1,10 @@
+[package]
+name = "graphical_poker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.26.2"  # 固定使用这个版本
+egui = "0.26.2"    # 确保 egui 版本与 eframe 匹配
+image = { version = "0.24.7", features = ["jpeg", "png", "gif"] }
+rand = "0.8"
