@@ -1,0 +1,6 @@
+[package]
+name = "traffic_light"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
