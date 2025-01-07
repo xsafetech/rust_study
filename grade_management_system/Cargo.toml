@@ -1,0 +1,11 @@
+[package]
+name = "grade_management_system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+csv = "1.2"
+eframe = { version = "0.24.0", features = ["default_fonts"] }
+rfd = "0.12"

@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "2",
+      "class": "2",
+      "major": "2"
+    },
+    {
+      "id": "1",
+      "name": "1",
+      "class": "1",
+      "major": "1"
+    }
+  ],
+  "grades": [
+    {
+      "student_id": "1",
+      "subject": "1",
+      "score": 1.0,
+      "semester": "1"
+    },
+    {
+      "student_id": "2",
+      "subject": "1",
+      "score": 2.0,
+      "semester": "1"
+    },
+    {
+      "student_id": "2",
+      "subject": "2",
+      "score": 1.0,
+      "semester": "1"
+    }
+  ]
+}
